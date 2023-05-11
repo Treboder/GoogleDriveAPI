@@ -1,6 +1,26 @@
-# Gedrive
-## Spring Boot, Google Cloud, Spring Web, OAuth 2.0, Rest API
+# GoogleDriveApplication
+
+Credits for this project go to [Lucas24D](https://github.com/Lucas24D) since this project is almost identical to his Gradle-project
+[Lucas24D/gedrive](https://github.com/Lucas24D/gedrive) from which this project is a fork.
+
+Main difference (to this date) is that we use Maven here, instead of Gradle.
+
+The project features:
+* Spring Boot, 
+* Google Cloud, 
+* Spring Web, 
+* OAuth 2.0, 
+* Rest API
+
+
+## Entry Points
+The app will start running at http://localhost:8080
+The Swagger UI is running at: http://localhost:8080/swagger-ui/index.html
+
+
 ## Steps to Setup
+Start with Google [Drive API Quickstart](https://developers.google.com/drive/api/quickstart/java?hl=de)
+
 
 **1. Clone this repository**
 ```bash
