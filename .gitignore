@@ -1,5 +1,0 @@
-.idea
-.gitignore
-/target
-/tokens
-/src/main/resources/credentials.json
