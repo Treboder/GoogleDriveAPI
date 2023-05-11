@@ -14,13 +14,12 @@ The project features:
 
 
 ## Entry Points
-The app will start running at http://localhost:8080
-The Swagger UI is running at: http://localhost:8080/swagger-ui/index.html
+* The app will start running at http://localhost:8080
+* The Swagger UI is running at: http://localhost:8080/swagger-ui/index.html
 
 
 ## Steps to Setup
-Start with Google [Drive API Quickstart](https://developers.google.com/drive/api/quickstart/java?hl=de)
-
+Start with reading [Google Drive API Quickstart](https://developers.google.com/drive/api/quickstart/java?hl=de)
 
 **1. Clone this repository**
 ```bash
