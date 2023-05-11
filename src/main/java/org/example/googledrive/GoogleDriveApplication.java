@@ -1,11 +1,9 @@
-package com.ldsa.gedrive;
+package org.example.googledrive;
 
-import com.ldsa.gedrive.config.GoogleDriveConfig;
+import org.example.googledrive.config.GoogleDriveConfig;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Import;
-
-
 
 @SpringBootApplication
 @Import(GoogleDriveConfig.class)

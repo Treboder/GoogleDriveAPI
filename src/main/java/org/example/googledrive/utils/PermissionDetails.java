@@ -1,4 +1,4 @@
-package com.ldsa.gedrive.utils;
+package org.example.googledrive.utils;
 
 import lombok.Builder;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.ldsa.gedrive.dtos;
+package org.example.googledrive.dtos;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

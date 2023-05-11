@@ -1,7 +1,7 @@
-package com.ldsa.gedrive.controllers;
+package org.example.googledrive.controllers;
 
-import com.ldsa.gedrive.dtos.GoogleDriveFolderDTO;
-import com.ldsa.gedrive.services.GoogleDriveFolderService;
+import org.example.googledrive.dtos.GoogleDriveFolderDTO;
+import org.example.googledrive.services.GoogleDriveFolderService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpHeaders;

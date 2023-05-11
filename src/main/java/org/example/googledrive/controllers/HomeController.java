@@ -1,4 +1,4 @@
-package com.ldsa.gedrive.controllers;
+package org.example.googledrive.controllers;
 
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.web.bind.annotation.GetMapping;

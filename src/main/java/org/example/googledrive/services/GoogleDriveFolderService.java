@@ -1,9 +1,9 @@
-package com.ldsa.gedrive.services;
+package org.example.googledrive.services;
 
 import com.google.api.services.drive.model.File;
 import com.google.common.io.ByteStreams;
-import com.ldsa.gedrive.dtos.GoogleDriveFolderDTO;
-import com.ldsa.gedrive.utils.PermissionDetails;
+import org.example.googledrive.dtos.GoogleDriveFolderDTO;
+import org.example.googledrive.utils.PermissionDetails;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
